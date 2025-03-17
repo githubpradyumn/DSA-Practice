@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1195-distribute-candies-to-people](https://github.com/githubpradyumn/DSA-Practice/tree/master/1195-distribute-candies-to-people) |
 | [2058-concatenation-of-array](https://github.com/githubpradyumn/DSA-Practice/tree/master/2058-concatenation-of-array) |
 ## String
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1195-distribute-candies-to-people](https://github.com/githubpradyumn/DSA-Practice/tree/master/1195-distribute-candies-to-people) |
 | [1965-sum-of-digits-in-base-k](https://github.com/githubpradyumn/DSA-Practice/tree/master/1965-sum-of-digits-in-base-k) |
 | [2037-count-square-sum-triples](https://github.com/githubpradyumn/DSA-Practice/tree/master/2037-count-square-sum-triples) |
 ## Enumeration
