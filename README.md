@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/githubpradyumn/DSA-Practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/githubpradyumn/DSA-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/githubpradyumn/DSA-Practice/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/githubpradyumn/DSA-Practice/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/githubpradyumn/DSA-Practice/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/githubpradyumn/DSA-Practice/tree/master/0485-max-consecutive-ones) |
 | [2058-concatenation-of-array](https://github.com/githubpradyumn/DSA-Practice/tree/master/2058-concatenation-of-array) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/githubpradyumn/DSA-Practice/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/githubpradyumn/DSA-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/githubpradyumn/DSA-Practice/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/githubpradyumn/DSA-Practice/tree/master/0268-missing-number) |
 | [0782-jewels-and-stones](https://github.com/githubpradyumn/DSA-Practice/tree/master/0782-jewels-and-stones) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/githubpradyumn/DSA-Practice/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/githubpradyumn/DSA-Practice/tree/master/2308-divide-array-into-equal-pairs) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/githubpradyumn/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/githubpradyumn/DSA-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/githubpradyumn/DSA-Practice/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/githubpradyumn/DSA-Practice/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/githubpradyumn/DSA-Practice/tree/master/0414-third-maximum-number) |
 ## Counting
 |  |
@@ -50,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/githubpradyumn/DSA-Practice/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/githubpradyumn/DSA-Practice/tree/master/0268-missing-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/githubpradyumn/DSA-Practice/tree/master/2308-divide-array-into-equal-pairs) |
 ## Two Pointers
 |  |
@@ -74,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/githubpradyumn/DSA-Practice/tree/master/0268-missing-number) |
 | [1195-distribute-candies-to-people](https://github.com/githubpradyumn/DSA-Practice/tree/master/1195-distribute-candies-to-people) |
 | [1965-sum-of-digits-in-base-k](https://github.com/githubpradyumn/DSA-Practice/tree/master/1965-sum-of-digits-in-base-k) |
 | [2037-count-square-sum-triples](https://github.com/githubpradyumn/DSA-Practice/tree/master/2037-count-square-sum-triples) |
@@ -89,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/githubpradyumn/DSA-Practice/tree/master/0053-maximum-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/githubpradyumn/DSA-Practice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
