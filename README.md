@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1195-distribute-candies-to-people](https://github.com/githubpradyumn/DSA-Practice/tree/master/1195-distribute-candies-to-people) |
 | [1965-sum-of-digits-in-base-k](https://github.com/githubpradyumn/DSA-Practice/tree/master/1965-sum-of-digits-in-base-k) |
 | [2037-count-square-sum-triples](https://github.com/githubpradyumn/DSA-Practice/tree/master/2037-count-square-sum-triples) |
+| [3371-harshad-number](https://github.com/githubpradyumn/DSA-Practice/tree/master/3371-harshad-number) |
 ## Enumeration
 |  |
 | ------- |
