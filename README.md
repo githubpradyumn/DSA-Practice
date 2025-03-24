@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/githubpradyumn/DSA-Practice/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/githubpradyumn/DSA-Practice/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/githubpradyumn/DSA-Practice/tree/master/0485-max-consecutive-ones) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/githubpradyumn/DSA-Practice/tree/master/1349-check-if-it-is-a-straight-line) |
 | [2058-concatenation-of-array](https://github.com/githubpradyumn/DSA-Practice/tree/master/2058-concatenation-of-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/githubpradyumn/DSA-Practice/tree/master/2308-divide-array-into-equal-pairs) |
 ## Hash Table
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/githubpradyumn/DSA-Practice/tree/master/0268-missing-number) |
 | [1195-distribute-candies-to-people](https://github.com/githubpradyumn/DSA-Practice/tree/master/1195-distribute-candies-to-people) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/githubpradyumn/DSA-Practice/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1965-sum-of-digits-in-base-k](https://github.com/githubpradyumn/DSA-Practice/tree/master/1965-sum-of-digits-in-base-k) |
 | [2037-count-square-sum-triples](https://github.com/githubpradyumn/DSA-Practice/tree/master/2037-count-square-sum-triples) |
 | [3371-harshad-number](https://github.com/githubpradyumn/DSA-Practice/tree/master/3371-harshad-number) |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/githubpradyumn/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/githubpradyumn/DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/githubpradyumn/DSA-Practice/tree/master/0268-missing-number) |
+## Geometry
+|  |
+| ------- |
+| [1349-check-if-it-is-a-straight-line](https://github.com/githubpradyumn/DSA-Practice/tree/master/1349-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
