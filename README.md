@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/githubpradyumn/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/githubpradyumn/DSA-Practice/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/githubpradyumn/DSA-Practice/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/githubpradyumn/DSA-Practice/tree/master/0189-rotate-array) |
@@ -134,4 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/githubpradyumn/DSA-Practice/tree/master/2032-largest-odd-number-in-string) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/githubpradyumn/DSA-Practice/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/githubpradyumn/DSA-Practice/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
