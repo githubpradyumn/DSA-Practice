@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/githubpradyumn/DSA-Practice/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/githubpradyumn/DSA-Practice/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/githubpradyumn/DSA-Practice/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/githubpradyumn/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/githubpradyumn/DSA-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/githubpradyumn/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/githubpradyumn/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/githubpradyumn/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/githubpradyumn/DSA-Practice/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/githubpradyumn/DSA-Practice/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/githubpradyumn/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [2128-reverse-prefix-of-word](https://github.com/githubpradyumn/DSA-Practice/tree/master/2128-reverse-prefix-of-word) |
 ## Simulation
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/githubpradyumn/DSA-Practice/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/githubpradyumn/DSA-Practice/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/githubpradyumn/DSA-Practice/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/githubpradyumn/DSA-Practice/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/githubpradyumn/DSA-Practice/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/githubpradyumn/DSA-Practice/tree/master/0441-arranging-coins) |
 | [1195-distribute-candies-to-people](https://github.com/githubpradyumn/DSA-Practice/tree/master/1195-distribute-candies-to-people) |
