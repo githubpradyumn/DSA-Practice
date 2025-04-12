@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/githubpradyumn/DSA-Practice/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/githubpradyumn/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/githubpradyumn/DSA-Practice/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/githubpradyumn/DSA-Practice/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/githubpradyumn/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/githubpradyumn/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/githubpradyumn/DSA-Practice/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/githubpradyumn/DSA-Practice/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/githubpradyumn/DSA-Practice/tree/master/0075-sort-colors) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/githubpradyumn/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [2032-largest-odd-number-in-string](https://github.com/githubpradyumn/DSA-Practice/tree/master/2032-largest-odd-number-in-string) |
 ## Linked List
 |  |
