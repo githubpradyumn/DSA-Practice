@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/githubpradyumn/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/githubpradyumn/DSA-Practice/tree/master/0058-length-of-last-word) |
+| [0171-excel-sheet-column-number](https://github.com/githubpradyumn/DSA-Practice/tree/master/0171-excel-sheet-column-number) |
 | [0392-is-subsequence](https://github.com/githubpradyumn/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/githubpradyumn/DSA-Practice/tree/master/0412-fizz-buzz) |
 | [0482-license-key-formatting](https://github.com/githubpradyumn/DSA-Practice/tree/master/0482-license-key-formatting) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/githubpradyumn/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/githubpradyumn/DSA-Practice/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/githubpradyumn/DSA-Practice/tree/master/0069-sqrtx) |
+| [0171-excel-sheet-column-number](https://github.com/githubpradyumn/DSA-Practice/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/githubpradyumn/DSA-Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/githubpradyumn/DSA-Practice/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/githubpradyumn/DSA-Practice/tree/master/0268-missing-number) |
