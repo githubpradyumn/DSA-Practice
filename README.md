@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/githubpradyumn/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/githubpradyumn/DSA-Practice/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/githubpradyumn/DSA-Practice/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/githubpradyumn/DSA-Practice/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/githubpradyumn/DSA-Practice/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/githubpradyumn/DSA-Practice/tree/master/0189-rotate-array) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/githubpradyumn/DSA-Practice/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/githubpradyumn/DSA-Practice/tree/master/0050-powx-n) |
 ## Trie
 |  |
 | ------- |
