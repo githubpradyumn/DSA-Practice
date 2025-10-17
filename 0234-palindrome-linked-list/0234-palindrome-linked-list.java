@@ -13,25 +13,23 @@ class Solution {
         if(head==null || head.next==null){
             return true;
         }
+        Stack<Integer> stack = new Stack<>();
         ListNode slow = head;
         ListNode fast = head;
-        ListNode prev = null;
-        ListNode curr = prev;
-        while(fast!=null && fast.next!=null){
-            fast = fast.next.next;
-            curr = slow;
-            slow = slow.next;
-            curr.next = prev;
-            prev = curr;
+        ListNode curr = head;
+        while(fast!=null&&fast.next!=null){
+            fast=fast.next.next;
+            slow=slow.next;
+            stack.push(curr.val);
+            curr=slow;
         }
         if(fast!=null){
-            slow = slow.next;
+            slow=slow.next;
         }
-        while(curr!=null){
-            if(curr.val!=slow.val){
+        while(!stack.isEmpty()){
+            if(stack.pop()!=slow.val){
                 return false;
             }
-            curr = curr.next;
             slow = slow.next;
         }
         return true;
