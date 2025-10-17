@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/githubpradyumn/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/githubpradyumn/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/githubpradyumn/DSA-Practice/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/githubpradyumn/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/githubpradyumn/DSA-Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/githubpradyumn/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/githubpradyumn/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/githubpradyumn/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/githubpradyumn/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/githubpradyumn/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/githubpradyumn/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/githubpradyumn/DSA-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/githubpradyumn/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/githubpradyumn/DSA-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/githubpradyumn/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/githubpradyumn/DSA-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/githubpradyumn/DSA-Practice/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/githubpradyumn/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/githubpradyumn/DSA-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/githubpradyumn/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/githubpradyumn/DSA-Practice/tree/master/0414-third-maximum-number) |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/githubpradyumn/DSA-Practice/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/githubpradyumn/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/githubpradyumn/DSA-Practice/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/githubpradyumn/DSA-Practice/tree/master/2308-divide-array-into-equal-pairs) |
 ## Bit Manipulation
