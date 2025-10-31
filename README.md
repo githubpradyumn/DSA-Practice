@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/githubpradyumn/DSA-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/githubpradyumn/DSA-Practice/tree/master/2308-divide-array-into-equal-pairs) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/githubpradyumn/DSA-Practice/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/githubpradyumn/DSA-Practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/githubpradyumn/DSA-Practice/tree/master/0782-jewels-and-stones) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/githubpradyumn/DSA-Practice/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/githubpradyumn/DSA-Practice/tree/master/2308-divide-array-into-equal-pairs) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/githubpradyumn/DSA-Practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-count-square-sum-triples](https://github.com/githubpradyumn/DSA-Practice/tree/master/2037-count-square-sum-triples) |
 | [3371-harshad-number](https://github.com/githubpradyumn/DSA-Practice/tree/master/3371-harshad-number) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/githubpradyumn/DSA-Practice/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/githubpradyumn/DSA-Practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Enumeration
 |  |
 | ------- |
