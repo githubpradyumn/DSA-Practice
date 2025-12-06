@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/githubpradyumn/DSA-Practice/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/githubpradyumn/DSA-Practice/tree/master/0500-keyboard-row) |
 | [0516-longest-palindromic-subsequence](https://github.com/githubpradyumn/DSA-Practice/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/githubpradyumn/DSA-Practice/tree/master/0583-delete-operation-for-two-strings) |
 | [0782-jewels-and-stones](https://github.com/githubpradyumn/DSA-Practice/tree/master/0782-jewels-and-stones) |
 | [2032-largest-odd-number-in-string](https://github.com/githubpradyumn/DSA-Practice/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/githubpradyumn/DSA-Practice/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/githubpradyumn/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/githubpradyumn/DSA-Practice/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/githubpradyumn/DSA-Practice/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/githubpradyumn/DSA-Practice/tree/master/0583-delete-operation-for-two-strings) |
 ## Binary Search
 |  |
 | ------- |
