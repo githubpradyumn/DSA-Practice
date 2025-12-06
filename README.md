@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/githubpradyumn/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/githubpradyumn/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/githubpradyumn/DSA-Practice/tree/master/0058-length-of-last-word) |
+| [0091-decode-ways](https://github.com/githubpradyumn/DSA-Practice/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/githubpradyumn/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/githubpradyumn/DSA-Practice/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/githubpradyumn/DSA-Practice/tree/master/0171-excel-sheet-column-number) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/githubpradyumn/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/githubpradyumn/DSA-Practice/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/githubpradyumn/DSA-Practice/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/githubpradyumn/DSA-Practice/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/githubpradyumn/DSA-Practice/tree/master/0392-is-subsequence) |
 ## Binary Search
