@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/githubpradyumn/DSA-Practice/tree/master/0500-keyboard-row) |
 | [0566-reshape-the-matrix](https://github.com/githubpradyumn/DSA-Practice/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/githubpradyumn/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
+| [0860-lemonade-change](https://github.com/githubpradyumn/DSA-Practice/tree/master/0860-lemonade-change) |
 | [0941-sort-array-by-parity](https://github.com/githubpradyumn/DSA-Practice/tree/master/0941-sort-array-by-parity) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/githubpradyumn/DSA-Practice/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1582-design-browser-history](https://github.com/githubpradyumn/DSA-Practice/tree/master/1582-design-browser-history) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/githubpradyumn/DSA-Practice/tree/master/0011-container-with-most-water) |
+| [0860-lemonade-change](https://github.com/githubpradyumn/DSA-Practice/tree/master/0860-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/githubpradyumn/DSA-Practice/tree/master/2032-largest-odd-number-in-string) |
 ## Linked List
 |  |
