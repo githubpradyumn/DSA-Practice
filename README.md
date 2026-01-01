@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/githubpradyumn/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/githubpradyumn/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/githubpradyumn/DSA-Practice/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/githubpradyumn/DSA-Practice/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/githubpradyumn/DSA-Practice/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/githubpradyumn/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/githubpradyumn/DSA-Practice/tree/master/0088-merge-sorted-array) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/githubpradyumn/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/githubpradyumn/DSA-Practice/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/githubpradyumn/DSA-Practice/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/githubpradyumn/DSA-Practice/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/githubpradyumn/DSA-Practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/githubpradyumn/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/githubpradyumn/DSA-Practice/tree/master/0168-excel-sheet-column-title) |
