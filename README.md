@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/githubpradyumn/DSA-Practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/githubpradyumn/DSA-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/githubpradyumn/DSA-Practice/tree/master/2308-divide-array-into-equal-pairs) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/githubpradyumn/DSA-Practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/githubpradyumn/DSA-Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/githubpradyumn/DSA-Practice/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3531-count-covered-buildings](https://github.com/githubpradyumn/DSA-Practice/tree/master/3531-count-covered-buildings) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/githubpradyumn/DSA-Practice/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/githubpradyumn/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0941-sort-array-by-parity](https://github.com/githubpradyumn/DSA-Practice/tree/master/0941-sort-array-by-parity) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/githubpradyumn/DSA-Practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3531-count-covered-buildings](https://github.com/githubpradyumn/DSA-Practice/tree/master/3531-count-covered-buildings) |
 ## Counting
 |  |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2037-count-square-sum-triples](https://github.com/githubpradyumn/DSA-Practice/tree/master/2037-count-square-sum-triples) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/githubpradyumn/DSA-Practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Stack
 |  |
 | ------- |
