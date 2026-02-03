@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/githubpradyumn/DSA-Practice/tree/master/0500-keyboard-row) |
 | [0566-reshape-the-matrix](https://github.com/githubpradyumn/DSA-Practice/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/githubpradyumn/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/githubpradyumn/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0860-lemonade-change](https://github.com/githubpradyumn/DSA-Practice/tree/master/0860-lemonade-change) |
 | [0941-sort-array-by-parity](https://github.com/githubpradyumn/DSA-Practice/tree/master/0941-sort-array-by-parity) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/githubpradyumn/DSA-Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/githubpradyumn/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/githubpradyumn/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/githubpradyumn/DSA-Practice/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
