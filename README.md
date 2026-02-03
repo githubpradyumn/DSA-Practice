@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/githubpradyumn/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1266-minimum-time-visiting-all-points](https://github.com/githubpradyumn/DSA-Practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/githubpradyumn/DSA-Practice/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1480-running-sum-of-1d-array](https://github.com/githubpradyumn/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1582-design-browser-history](https://github.com/githubpradyumn/DSA-Practice/tree/master/1582-design-browser-history) |
 | [2058-concatenation-of-array](https://github.com/githubpradyumn/DSA-Practice/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/githubpradyumn/DSA-Practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -367,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/githubpradyumn/DSA-Practice/tree/master/0547-number-of-provinces) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/githubpradyumn/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
