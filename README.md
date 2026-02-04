@@ -385,4 +385,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/githubpradyumn/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/githubpradyumn/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/githubpradyumn/DSA-Practice/tree/master/2574-left-and-right-sum-differences) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/githubpradyumn/DSA-Practice/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
