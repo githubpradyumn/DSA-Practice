@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1349-check-if-it-is-a-straight-line](https://github.com/githubpradyumn/DSA-Practice/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1480-running-sum-of-1d-array](https://github.com/githubpradyumn/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1582-design-browser-history](https://github.com/githubpradyumn/DSA-Practice/tree/master/1582-design-browser-history) |
+| [1695-maximum-erasure-value](https://github.com/githubpradyumn/DSA-Practice/tree/master/1695-maximum-erasure-value) |
 | [1732-find-the-highest-altitude](https://github.com/githubpradyumn/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
 | [2058-concatenation-of-array](https://github.com/githubpradyumn/DSA-Practice/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/githubpradyumn/DSA-Practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/githubpradyumn/DSA-Practice/tree/master/0500-keyboard-row) |
 | [0782-jewels-and-stones](https://github.com/githubpradyumn/DSA-Practice/tree/master/0782-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/githubpradyumn/DSA-Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1695-maximum-erasure-value](https://github.com/githubpradyumn/DSA-Practice/tree/master/1695-maximum-erasure-value) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/githubpradyumn/DSA-Practice/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/githubpradyumn/DSA-Practice/tree/master/2308-divide-array-into-equal-pairs) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/githubpradyumn/DSA-Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/githubpradyumn/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/githubpradyumn/DSA-Practice/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/githubpradyumn/DSA-Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1695-maximum-erasure-value](https://github.com/githubpradyumn/DSA-Practice/tree/master/1695-maximum-erasure-value) |
 ## String Matching
 |  |
 | ------- |
