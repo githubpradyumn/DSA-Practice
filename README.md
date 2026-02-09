@@ -386,12 +386,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/githubpradyumn/DSA-Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0322-coin-change](https://github.com/githubpradyumn/DSA-Practice/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/githubpradyumn/DSA-Practice/tree/master/0547-number-of-provinces) |
+| [0841-keys-and-rooms](https://github.com/githubpradyumn/DSA-Practice/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/githubpradyumn/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/githubpradyumn/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/githubpradyumn/DSA-Practice/tree/master/0547-number-of-provinces) |
+| [0841-keys-and-rooms](https://github.com/githubpradyumn/DSA-Practice/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/githubpradyumn/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
@@ -434,5 +436,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0841-keys-and-rooms](https://github.com/githubpradyumn/DSA-Practice/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/githubpradyumn/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
