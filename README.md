@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/githubpradyumn/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/githubpradyumn/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/githubpradyumn/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
+| [1254-number-of-closed-islands](https://github.com/githubpradyumn/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1266-minimum-time-visiting-all-points](https://github.com/githubpradyumn/DSA-Practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/githubpradyumn/DSA-Practice/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/githubpradyumn/DSA-Practice/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/githubpradyumn/DSA-Practice/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/githubpradyumn/DSA-Practice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/githubpradyumn/DSA-Practice/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/githubpradyumn/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 ## Memoization
 |  |
 | ------- |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/githubpradyumn/DSA-Practice/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/githubpradyumn/DSA-Practice/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/githubpradyumn/DSA-Practice/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/githubpradyumn/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/githubpradyumn/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Depth-First Search
 |  |
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/githubpradyumn/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/githubpradyumn/DSA-Practice/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/githubpradyumn/DSA-Practice/tree/master/0841-keys-and-rooms) |
+| [1254-number-of-closed-islands](https://github.com/githubpradyumn/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/githubpradyumn/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
@@ -448,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/githubpradyumn/DSA-Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/githubpradyumn/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/githubpradyumn/DSA-Practice/tree/master/0547-number-of-provinces) |
+| [1254-number-of-closed-islands](https://github.com/githubpradyumn/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/githubpradyumn/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
