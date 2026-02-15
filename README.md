@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/githubpradyumn/DSA-Practice/tree/master/0494-target-sum) |
 | [0500-keyboard-row](https://github.com/githubpradyumn/DSA-Practice/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/githubpradyumn/DSA-Practice/tree/master/0525-contiguous-array) |
+| [0542-01-matrix](https://github.com/githubpradyumn/DSA-Practice/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/githubpradyumn/DSA-Practice/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/githubpradyumn/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/githubpradyumn/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/githubpradyumn/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/githubpradyumn/DSA-Practice/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/githubpradyumn/DSA-Practice/tree/master/0516-longest-palindromic-subsequence) |
+| [0542-01-matrix](https://github.com/githubpradyumn/DSA-Practice/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/githubpradyumn/DSA-Practice/tree/master/0583-delete-operation-for-two-strings) |
 ## Binary Search
 |  |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/githubpradyumn/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/githubpradyumn/DSA-Practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/githubpradyumn/DSA-Practice/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/githubpradyumn/DSA-Practice/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/githubpradyumn/DSA-Practice/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/githubpradyumn/DSA-Practice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/githubpradyumn/DSA-Practice/tree/master/0994-rotting-oranges) |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/githubpradyumn/DSA-Practice/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/githubpradyumn/DSA-Practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/githubpradyumn/DSA-Practice/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/githubpradyumn/DSA-Practice/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/githubpradyumn/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/githubpradyumn/DSA-Practice/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/githubpradyumn/DSA-Practice/tree/master/0841-keys-and-rooms) |
