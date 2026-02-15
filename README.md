@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-design-browser-history](https://github.com/githubpradyumn/DSA-Practice/tree/master/1582-design-browser-history) |
 | [1695-maximum-erasure-value](https://github.com/githubpradyumn/DSA-Practice/tree/master/1695-maximum-erasure-value) |
 | [1732-find-the-highest-altitude](https://github.com/githubpradyumn/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
+| [1765-map-of-highest-peak](https://github.com/githubpradyumn/DSA-Practice/tree/master/1765-map-of-highest-peak) |
 | [2058-concatenation-of-array](https://github.com/githubpradyumn/DSA-Practice/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/githubpradyumn/DSA-Practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/githubpradyumn/DSA-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/githubpradyumn/DSA-Practice/tree/master/1020-number-of-enclaves) |
 | [1162-as-far-from-land-as-possible](https://github.com/githubpradyumn/DSA-Practice/tree/master/1162-as-far-from-land-as-possible) |
 | [1254-number-of-closed-islands](https://github.com/githubpradyumn/DSA-Practice/tree/master/1254-number-of-closed-islands) |
+| [1765-map-of-highest-peak](https://github.com/githubpradyumn/DSA-Practice/tree/master/1765-map-of-highest-peak) |
 ## Memoization
 |  |
 | ------- |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/githubpradyumn/DSA-Practice/tree/master/1020-number-of-enclaves) |
 | [1162-as-far-from-land-as-possible](https://github.com/githubpradyumn/DSA-Practice/tree/master/1162-as-far-from-land-as-possible) |
 | [1254-number-of-closed-islands](https://github.com/githubpradyumn/DSA-Practice/tree/master/1254-number-of-closed-islands) |
+| [1765-map-of-highest-peak](https://github.com/githubpradyumn/DSA-Practice/tree/master/1765-map-of-highest-peak) |
 | [1971-find-if-path-exists-in-graph](https://github.com/githubpradyumn/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Depth-First Search
 |  |
