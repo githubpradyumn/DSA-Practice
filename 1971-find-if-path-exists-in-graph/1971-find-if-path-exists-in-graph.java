@@ -16,29 +16,22 @@ class Solution {
             list.get(from).add(to);
             list.get(to).add(from);
         }
-        for(int i=0;i<n;i++){
-            if(bfs(n,list,vist,source,destination)){
-                return true;
-            }
-        }
-        return false;
+        return dfs(list,vist,source,destination);
     }
-    public boolean bfs(int n, ArrayList<ArrayList<Integer>> adjlist,int[] vist, int source,int destination){
-        Queue<Integer> q = new LinkedList<>();
-        q.add(source);
-        vist[source] = 1;
-        while(!q.isEmpty()){
-            int curr = q.poll();
-            for(int path : adjlist.get(curr)){
-                if(path==destination){
+        public boolean dfs(ArrayList<ArrayList<Integer>> adjlist, int[] vist, int node, int destination){
+        if(node == destination){
+            return true;
+        }
+        vist[node] = 1;
+
+        for(int neighbour : adjlist.get(node)){
+            if(vist[neighbour] == 0){
+                if(dfs(adjlist, vist, neighbour, destination)){
                     return true;
-                }
-                if(vist[path]==0){
-                    vist[path]=1;
-                    q.add(path);
                 }
             }
         }
         return false;
     }
 }
+
