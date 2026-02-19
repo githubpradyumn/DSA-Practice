@@ -4,7 +4,7 @@ class Solution {
         ArrayList<ArrayList<Integer>> adjlist = new ArrayList<>();
         for(int i=0;i<numCourses;i++) adjlist.add(new ArrayList<>());
         for(int[] e : prerequisites){
-            adjlist.get(e[0]).add(e[1]);
+            adjlist.get(e[1]).add(e[0]);
         }
         return topoSort(numCourses,adjlist);
     }
@@ -32,9 +32,9 @@ class Solution {
                 }
             }
         }
-        if(ans.size()==V){
-            return true;
+        if(ans.size()!=V){
+            return false;
         }
-        return false;
+        return true;
     }
 }
