@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/githubpradyumn/DSA-Practice/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/githubpradyumn/DSA-Practice/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1480-running-sum-of-1d-array](https://github.com/githubpradyumn/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
+| [1514-path-with-maximum-probability](https://github.com/githubpradyumn/DSA-Practice/tree/master/1514-path-with-maximum-probability) |
 | [1582-design-browser-history](https://github.com/githubpradyumn/DSA-Practice/tree/master/1582-design-browser-history) |
 | [1631-path-with-minimum-effort](https://github.com/githubpradyumn/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
 | [1695-maximum-erasure-value](https://github.com/githubpradyumn/DSA-Practice/tree/master/1695-maximum-erasure-value) |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/githubpradyumn/DSA-Practice/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/githubpradyumn/DSA-Practice/tree/master/0841-keys-and-rooms) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/githubpradyumn/DSA-Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1514-path-with-maximum-probability](https://github.com/githubpradyumn/DSA-Practice/tree/master/1514-path-with-maximum-probability) |
 | [1791-find-center-of-star-graph](https://github.com/githubpradyumn/DSA-Practice/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/githubpradyumn/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
@@ -532,9 +534,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/githubpradyumn/DSA-Practice/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/githubpradyumn/DSA-Practice/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/githubpradyumn/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/githubpradyumn/DSA-Practice/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/githubpradyumn/DSA-Practice/tree/master/1514-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
