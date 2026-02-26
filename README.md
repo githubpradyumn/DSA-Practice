@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/githubpradyumn/DSA-Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/githubpradyumn/DSA-Practice/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/githubpradyumn/DSA-Practice/tree/master/0583-delete-operation-for-two-strings) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/githubpradyumn/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1162-as-far-from-land-as-possible](https://github.com/githubpradyumn/DSA-Practice/tree/master/1162-as-far-from-land-as-possible) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/githubpradyumn/DSA-Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Binary Search
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/githubpradyumn/DSA-Practice/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/githubpradyumn/DSA-Practice/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/githubpradyumn/DSA-Practice/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/githubpradyumn/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/githubpradyumn/DSA-Practice/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/githubpradyumn/DSA-Practice/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/githubpradyumn/DSA-Practice/tree/master/0994-rotting-oranges) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/githubpradyumn/DSA-Practice/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/githubpradyumn/DSA-Practice/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/githubpradyumn/DSA-Practice/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/githubpradyumn/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/githubpradyumn/DSA-Practice/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/githubpradyumn/DSA-Practice/tree/master/0841-keys-and-rooms) |
 | [1020-number-of-enclaves](https://github.com/githubpradyumn/DSA-Practice/tree/master/1020-number-of-enclaves) |
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/githubpradyumn/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/githubpradyumn/DSA-Practice/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/githubpradyumn/DSA-Practice/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/githubpradyumn/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/githubpradyumn/DSA-Practice/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/githubpradyumn/DSA-Practice/tree/master/0841-keys-and-rooms) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/githubpradyumn/DSA-Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -545,12 +549,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/githubpradyumn/DSA-Practice/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/githubpradyumn/DSA-Practice/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/githubpradyumn/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/githubpradyumn/DSA-Practice/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/githubpradyumn/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/githubpradyumn/DSA-Practice/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/githubpradyumn/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/githubpradyumn/DSA-Practice/tree/master/1514-path-with-maximum-probability) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/githubpradyumn/DSA-Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
