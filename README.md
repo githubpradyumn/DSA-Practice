@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/githubpradyumn/DSA-Practice/tree/master/1695-maximum-erasure-value) |
 | [1732-find-the-highest-altitude](https://github.com/githubpradyumn/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1765-map-of-highest-peak](https://github.com/githubpradyumn/DSA-Practice/tree/master/1765-map-of-highest-peak) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/githubpradyumn/DSA-Practice/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2058-concatenation-of-array](https://github.com/githubpradyumn/DSA-Practice/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/githubpradyumn/DSA-Practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/githubpradyumn/DSA-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/githubpradyumn/DSA-Practice/tree/master/0583-delete-operation-for-two-strings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/githubpradyumn/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1162-as-far-from-land-as-possible](https://github.com/githubpradyumn/DSA-Practice/tree/master/1162-as-far-from-land-as-possible) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/githubpradyumn/DSA-Practice/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/githubpradyumn/DSA-Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Binary Search
 |  |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/githubpradyumn/DSA-Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1514-path-with-maximum-probability](https://github.com/githubpradyumn/DSA-Practice/tree/master/1514-path-with-maximum-probability) |
 | [1791-find-center-of-star-graph](https://github.com/githubpradyumn/DSA-Practice/tree/master/1791-find-center-of-star-graph) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/githubpradyumn/DSA-Practice/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/githubpradyumn/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/githubpradyumn/DSA-Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
