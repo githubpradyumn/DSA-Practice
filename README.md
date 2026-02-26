@@ -494,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/githubpradyumn/DSA-Practice/tree/master/0175-combine-two-tables) |
+| [0185-department-top-three-salaries](https://github.com/githubpradyumn/DSA-Practice/tree/master/0185-department-top-three-salaries) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/githubpradyumn/DSA-Practice/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 ## Tree
 |  |
