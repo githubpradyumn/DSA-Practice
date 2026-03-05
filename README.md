@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/githubpradyumn/DSA-Practice/tree/master/1695-maximum-erasure-value) |
 | [1732-find-the-highest-altitude](https://github.com/githubpradyumn/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1765-map-of-highest-peak](https://github.com/githubpradyumn/DSA-Practice/tree/master/1765-map-of-highest-peak) |
+| [1920-build-array-from-permutation](https://github.com/githubpradyumn/DSA-Practice/tree/master/1920-build-array-from-permutation) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/githubpradyumn/DSA-Practice/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2058-concatenation-of-array](https://github.com/githubpradyumn/DSA-Practice/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/githubpradyumn/DSA-Practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1195-distribute-candies-to-people](https://github.com/githubpradyumn/DSA-Practice/tree/master/1195-distribute-candies-to-people) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/githubpradyumn/DSA-Practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1642-water-bottles](https://github.com/githubpradyumn/DSA-Practice/tree/master/1642-water-bottles) |
+| [1920-build-array-from-permutation](https://github.com/githubpradyumn/DSA-Practice/tree/master/1920-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/githubpradyumn/DSA-Practice/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/githubpradyumn/DSA-Practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/githubpradyumn/DSA-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
