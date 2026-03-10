@@ -1,39 +1,67 @@
+import java.util.*;
+
 class Solution {
+
+    class DSU {
+        int[] parent;
+        int[] rank;
+
+        DSU(int n){
+            parent = new int[n];
+            rank = new int[n];
+
+            for(int i = 0; i < n; i++){
+                parent[i] = i;
+                rank[i] = 0;
+            }
+        }
+
+        public int find(int x){
+            if(parent[x] != x){
+                parent[x] = find(parent[x]); 
+            }
+            return parent[x];
+        }
+
+        public void union(int x, int y){
+            int px = find(x);
+            int py = find(y);
+
+            if(px == py) return;
+
+            if(rank[px] < rank[py]){
+                parent[px] = py;
+            }
+            else if(rank[px] > rank[py]){
+                parent[py] = px;
+            }
+            else{
+                parent[py] = px;
+                rank[px]++;
+            }
+        }
+    }
+
     public int makeConnected(int n, int[][] connections) {
-        if(connections.length < n-1){
+
+        if(connections.length < n - 1){
             return -1;
         }
-        ArrayList<ArrayList<Integer>> adjlist = new ArrayList<>();
-        for(int i=0;i<n;i++){
-            adjlist.add(new ArrayList<>());
+
+        DSU dsu = new DSU(n);
+
+        for(int[] edge : connections){
+            dsu.union(edge[0], edge[1]);
         }
-        for(int[] e : connections){
-            adjlist.get(e[0]).add(e[1]);
-            adjlist.get(e[1]).add(e[0]);
-        }
-        int[] isVisited = new int[n];
-        int count = -1;
-        for (int i = 0; i < n; i++) {
-            if (isVisited[i] == 0) {
-                bfs(adjlist, isVisited, i);
-                count++;
+
+        int components = 0;
+
+        for(int i = 0; i < n; i++){
+            if(dsu.find(i) == i){
+                components++;
             }
         }
-        return count;
+
+        return components - 1;
     }
-    public void bfs(ArrayList<ArrayList<Integer>> adjlist,int[] isVisited,int source) {
-        int V = adjlist.size();
-        Queue<Integer> q = new LinkedList<>();
-        isVisited[source] = 1;
-        q.add(source);
-        while(!q.isEmpty()){
-            int currNode = q.poll();
-            for(int nbh : adjlist.get(currNode)){
-                if(isVisited[nbh]==0){
-                    isVisited[nbh]=1;
-                    q.add(nbh);
-                }
-            }
-        }
-    }   
 }
