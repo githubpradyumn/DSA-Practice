@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/githubpradyumn/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/githubpradyumn/DSA-Practice/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/githubpradyumn/DSA-Practice/tree/master/0778-swim-in-rising-water) |
+| [0839-similar-string-groups](https://github.com/githubpradyumn/DSA-Practice/tree/master/0839-similar-string-groups) |
 | [0860-lemonade-change](https://github.com/githubpradyumn/DSA-Practice/tree/master/0860-lemonade-change) |
 | [0941-sort-array-by-parity](https://github.com/githubpradyumn/DSA-Practice/tree/master/0941-sort-array-by-parity) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/githubpradyumn/DSA-Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/githubpradyumn/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/githubpradyumn/DSA-Practice/tree/master/0721-accounts-merge) |
 | [0782-jewels-and-stones](https://github.com/githubpradyumn/DSA-Practice/tree/master/0782-jewels-and-stones) |
+| [0839-similar-string-groups](https://github.com/githubpradyumn/DSA-Practice/tree/master/0839-similar-string-groups) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/githubpradyumn/DSA-Practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/githubpradyumn/DSA-Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/githubpradyumn/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/githubpradyumn/DSA-Practice/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/githubpradyumn/DSA-Practice/tree/master/0721-accounts-merge) |
 | [0782-jewels-and-stones](https://github.com/githubpradyumn/DSA-Practice/tree/master/0782-jewels-and-stones) |
+| [0839-similar-string-groups](https://github.com/githubpradyumn/DSA-Practice/tree/master/0839-similar-string-groups) |
 | [0990-satisfiability-of-equality-equations](https://github.com/githubpradyumn/DSA-Practice/tree/master/0990-satisfiability-of-equality-equations) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/githubpradyumn/DSA-Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2032-largest-odd-number-in-string](https://github.com/githubpradyumn/DSA-Practice/tree/master/2032-largest-odd-number-in-string) |
@@ -462,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/githubpradyumn/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/githubpradyumn/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/githubpradyumn/DSA-Practice/tree/master/0802-find-eventual-safe-states) |
+| [0839-similar-string-groups](https://github.com/githubpradyumn/DSA-Practice/tree/master/0839-similar-string-groups) |
 | [0841-keys-and-rooms](https://github.com/githubpradyumn/DSA-Practice/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/githubpradyumn/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/githubpradyumn/DSA-Practice/tree/master/1020-number-of-enclaves) |
@@ -490,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/githubpradyumn/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/githubpradyumn/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/githubpradyumn/DSA-Practice/tree/master/0802-find-eventual-safe-states) |
+| [0839-similar-string-groups](https://github.com/githubpradyumn/DSA-Practice/tree/master/0839-similar-string-groups) |
 | [0841-keys-and-rooms](https://github.com/githubpradyumn/DSA-Practice/tree/master/0841-keys-and-rooms) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/githubpradyumn/DSA-Practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/githubpradyumn/DSA-Practice/tree/master/1020-number-of-enclaves) |
@@ -549,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/githubpradyumn/DSA-Practice/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/githubpradyumn/DSA-Practice/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/githubpradyumn/DSA-Practice/tree/master/0785-is-graph-bipartite) |
+| [0839-similar-string-groups](https://github.com/githubpradyumn/DSA-Practice/tree/master/0839-similar-string-groups) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/githubpradyumn/DSA-Practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-satisfiability-of-equality-equations](https://github.com/githubpradyumn/DSA-Practice/tree/master/0990-satisfiability-of-equality-equations) |
 | [1020-number-of-enclaves](https://github.com/githubpradyumn/DSA-Practice/tree/master/1020-number-of-enclaves) |
