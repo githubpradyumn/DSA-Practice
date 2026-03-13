@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/githubpradyumn/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/githubpradyumn/DSA-Practice/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/githubpradyumn/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0410-split-array-largest-sum](https://github.com/githubpradyumn/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/githubpradyumn/DSA-Practice/tree/master/0414-third-maximum-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/githubpradyumn/DSA-Practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/githubpradyumn/DSA-Practice/tree/master/0419-battleships-in-a-board) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/githubpradyumn/DSA-Practice/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/githubpradyumn/DSA-Practice/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/githubpradyumn/DSA-Practice/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/githubpradyumn/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/githubpradyumn/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/githubpradyumn/DSA-Practice/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/githubpradyumn/DSA-Practice/tree/master/0516-longest-palindromic-subsequence) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/githubpradyumn/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/githubpradyumn/DSA-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/githubpradyumn/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0410-split-array-largest-sum](https://github.com/githubpradyumn/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/githubpradyumn/DSA-Practice/tree/master/0441-arranging-coins) |
 | [0713-subarray-product-less-than-k](https://github.com/githubpradyumn/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0778-swim-in-rising-water](https://github.com/githubpradyumn/DSA-Practice/tree/master/0778-swim-in-rising-water) |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/githubpradyumn/DSA-Practice/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/githubpradyumn/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/githubpradyumn/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0860-lemonade-change](https://github.com/githubpradyumn/DSA-Practice/tree/master/0860-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/githubpradyumn/DSA-Practice/tree/master/2032-largest-odd-number-in-string) |
@@ -523,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/githubpradyumn/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/githubpradyumn/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/githubpradyumn/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/githubpradyumn/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/githubpradyumn/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/githubpradyumn/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/githubpradyumn/DSA-Practice/tree/master/0724-find-pivot-index) |
