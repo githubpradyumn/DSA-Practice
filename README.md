@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/githubpradyumn/DSA-Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/githubpradyumn/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/githubpradyumn/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/githubpradyumn/DSA-Practice/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/githubpradyumn/DSA-Practice/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/githubpradyumn/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/githubpradyumn/DSA-Practice/tree/master/0410-split-array-largest-sum) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/githubpradyumn/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/githubpradyumn/DSA-Practice/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/githubpradyumn/DSA-Practice/tree/master/0190-reverse-bits) |
+| [0307-range-sum-query-mutable](https://github.com/githubpradyumn/DSA-Practice/tree/master/0307-range-sum-query-mutable) |
 ## Sorting
 |  |
 | ------- |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/githubpradyumn/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/githubpradyumn/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/githubpradyumn/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/githubpradyumn/DSA-Practice/tree/master/0307-range-sum-query-mutable) |
 | [1582-design-browser-history](https://github.com/githubpradyumn/DSA-Practice/tree/master/1582-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -631,9 +634,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/githubpradyumn/DSA-Practice/tree/master/0307-range-sum-query-mutable) |
 | [3477-fruits-into-baskets-ii](https://github.com/githubpradyumn/DSA-Practice/tree/master/3477-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/githubpradyumn/DSA-Practice/tree/master/3477-fruits-into-baskets-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/githubpradyumn/DSA-Practice/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
