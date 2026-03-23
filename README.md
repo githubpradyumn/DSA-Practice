@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/githubpradyumn/DSA-Practice/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2058-concatenation-of-array](https://github.com/githubpradyumn/DSA-Practice/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/githubpradyumn/DSA-Practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2257-count-unguarded-cells-in-the-grid](https://github.com/githubpradyumn/DSA-Practice/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/githubpradyumn/DSA-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/githubpradyumn/DSA-Practice/tree/master/2308-divide-array-into-equal-pairs) |
 | [2574-left-and-right-sum-differences](https://github.com/githubpradyumn/DSA-Practice/tree/master/2574-left-and-right-sum-differences) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/githubpradyumn/DSA-Practice/tree/master/1920-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/githubpradyumn/DSA-Practice/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/githubpradyumn/DSA-Practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2257-count-unguarded-cells-in-the-grid](https://github.com/githubpradyumn/DSA-Practice/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/githubpradyumn/DSA-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3477-fruits-into-baskets-ii](https://github.com/githubpradyumn/DSA-Practice/tree/master/3477-fruits-into-baskets-ii) |
 ## String
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/githubpradyumn/DSA-Practice/tree/master/1267-count-servers-that-communicate) |
 | [1631-path-with-minimum-effort](https://github.com/githubpradyumn/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/githubpradyumn/DSA-Practice/tree/master/1765-map-of-highest-peak) |
+| [2257-count-unguarded-cells-in-the-grid](https://github.com/githubpradyumn/DSA-Practice/tree/master/2257-count-unguarded-cells-in-the-grid) |
 ## Memoization
 |  |
 | ------- |
