@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/githubpradyumn/DSA-Practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/githubpradyumn/DSA-Practice/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/githubpradyumn/DSA-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/githubpradyumn/DSA-Practice/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/githubpradyumn/DSA-Practice/tree/master/3477-fruits-into-baskets-ii) |
 ## String
 |  |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/githubpradyumn/DSA-Practice/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2128-reverse-prefix-of-word](https://github.com/githubpradyumn/DSA-Practice/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/githubpradyumn/DSA-Practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/githubpradyumn/DSA-Practice/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Math
 |  |
 | ------- |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/githubpradyumn/DSA-Practice/tree/master/2032-largest-odd-number-in-string) |
 | [2037-count-square-sum-triples](https://github.com/githubpradyumn/DSA-Practice/tree/master/2037-count-square-sum-triples) |
 | [3371-harshad-number](https://github.com/githubpradyumn/DSA-Practice/tree/master/3371-harshad-number) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/githubpradyumn/DSA-Practice/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/githubpradyumn/DSA-Practice/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/githubpradyumn/DSA-Practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Enumeration
@@ -648,4 +651,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/githubpradyumn/DSA-Practice/tree/master/0307-range-sum-query-mutable) |
+## Combinatorics
+|  |
+| ------- |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/githubpradyumn/DSA-Practice/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+## Number Theory
+|  |
+| ------- |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/githubpradyumn/DSA-Practice/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
