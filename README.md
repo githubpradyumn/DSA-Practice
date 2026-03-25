@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/githubpradyumn/DSA-Practice/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/githubpradyumn/DSA-Practice/tree/master/0268-missing-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/githubpradyumn/DSA-Practice/tree/master/2308-divide-array-into-equal-pairs) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/githubpradyumn/DSA-Practice/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/githubpradyumn/DSA-Practice/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/githubpradyumn/DSA-Practice/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/githubpradyumn/DSA-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/githubpradyumn/DSA-Practice/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Simulation
 |  |
 | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/githubpradyumn/DSA-Practice/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/githubpradyumn/DSA-Practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/githubpradyumn/DSA-Practice/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/githubpradyumn/DSA-Practice/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Math
 |  |
 | ------- |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/githubpradyumn/DSA-Practice/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/githubpradyumn/DSA-Practice/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/githubpradyumn/DSA-Practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/githubpradyumn/DSA-Practice/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Enumeration
 |  |
 | ------- |
