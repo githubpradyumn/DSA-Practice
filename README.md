@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/githubpradyumn/DSA-Practice/tree/master/1267-count-servers-that-communicate) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/githubpradyumn/DSA-Practice/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/githubpradyumn/DSA-Practice/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/githubpradyumn/DSA-Practice/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1480-running-sum-of-1d-array](https://github.com/githubpradyumn/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/githubpradyumn/DSA-Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1514-path-with-maximum-probability](https://github.com/githubpradyumn/DSA-Practice/tree/master/1514-path-with-maximum-probability) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/githubpradyumn/DSA-Practice/tree/master/1162-as-far-from-land-as-possible) |
 | [1254-number-of-closed-islands](https://github.com/githubpradyumn/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/githubpradyumn/DSA-Practice/tree/master/1267-count-servers-that-communicate) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/githubpradyumn/DSA-Practice/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1631-path-with-minimum-effort](https://github.com/githubpradyumn/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/githubpradyumn/DSA-Practice/tree/master/1765-map-of-highest-peak) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/githubpradyumn/DSA-Practice/tree/master/2257-count-unguarded-cells-in-the-grid) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/githubpradyumn/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/githubpradyumn/DSA-Practice/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/githubpradyumn/DSA-Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/githubpradyumn/DSA-Practice/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1631-path-with-minimum-effort](https://github.com/githubpradyumn/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/githubpradyumn/DSA-Practice/tree/master/1765-map-of-highest-peak) |
 | [1971-find-if-path-exists-in-graph](https://github.com/githubpradyumn/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
@@ -612,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/githubpradyumn/DSA-Practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-satisfiability-of-equality-equations](https://github.com/githubpradyumn/DSA-Practice/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/githubpradyumn/DSA-Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/githubpradyumn/DSA-Practice/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/githubpradyumn/DSA-Practice/tree/master/1514-path-with-maximum-probability) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/githubpradyumn/DSA-Practice/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1584-min-cost-to-connect-all-points](https://github.com/githubpradyumn/DSA-Practice/tree/master/1584-min-cost-to-connect-all-points) |
@@ -633,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/githubpradyumn/DSA-Practice/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/githubpradyumn/DSA-Practice/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/githubpradyumn/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/githubpradyumn/DSA-Practice/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/githubpradyumn/DSA-Practice/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/githubpradyumn/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
@@ -640,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/githubpradyumn/DSA-Practice/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/githubpradyumn/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/githubpradyumn/DSA-Practice/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/githubpradyumn/DSA-Practice/tree/master/1514-path-with-maximum-probability) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/githubpradyumn/DSA-Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Minimum Spanning Tree
