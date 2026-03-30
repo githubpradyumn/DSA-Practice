@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/githubpradyumn/DSA-Practice/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/githubpradyumn/DSA-Practice/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/githubpradyumn/DSA-Practice/tree/master/0441-arranging-coins) |
+| [1137-n-th-tribonacci-number](https://github.com/githubpradyumn/DSA-Practice/tree/master/1137-n-th-tribonacci-number) |
 | [1195-distribute-candies-to-people](https://github.com/githubpradyumn/DSA-Practice/tree/master/1195-distribute-candies-to-people) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/githubpradyumn/DSA-Practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1266-minimum-time-visiting-all-points](https://github.com/githubpradyumn/DSA-Practice/tree/master/1266-minimum-time-visiting-all-points) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/githubpradyumn/DSA-Practice/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/githubpradyumn/DSA-Practice/tree/master/0583-delete-operation-for-two-strings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/githubpradyumn/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1137-n-th-tribonacci-number](https://github.com/githubpradyumn/DSA-Practice/tree/master/1137-n-th-tribonacci-number) |
 | [1162-as-far-from-land-as-possible](https://github.com/githubpradyumn/DSA-Practice/tree/master/1162-as-far-from-land-as-possible) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/githubpradyumn/DSA-Practice/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/githubpradyumn/DSA-Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/githubpradyumn/DSA-Practice/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/githubpradyumn/DSA-Practice/tree/master/1137-n-th-tribonacci-number) |
 ## Backtracking
 |  |
 | ------- |
