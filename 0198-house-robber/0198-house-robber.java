@@ -1,21 +1,13 @@
 class Solution {
-    Integer[] dp;  
-
     public int rob(int[] nums) {
-        dp = new Integer[nums.length];  
-        // int n = nums.length - 1;
-        return profit(nums, 0);
-    }
-
-    public int profit(int[] nums, int n) {
-        // if(n > nums.length) return 0;
-        if(n >= nums.length) return 0;
-
-        if(dp[n] != null) return dp[n];  
-
-        int left = nums[n] + profit(nums, n +2);
-        int right = profit(nums, n +1);
-
-        return dp[n] = Math.max(left, right);
+        int n = nums.length;
+        if(n==1) return nums[0];
+        int[] dp = new int[n];
+        dp[0]=nums[0];
+        dp[1]=Math.max(nums[0],nums[1]);
+        for(int i=2;i<n;i++){
+            dp[i]=Math.max(nums[i]+dp[i-2],dp[i-1]);
+        }
+        return dp[n-1];
     }
 }
