@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/githubpradyumn/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/githubpradyumn/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/githubpradyumn/DSA-Practice/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/githubpradyumn/DSA-Practice/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/githubpradyumn/DSA-Practice/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/githubpradyumn/DSA-Practice/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/githubpradyumn/DSA-Practice/tree/master/0078-subsets) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/githubpradyumn/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/githubpradyumn/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/githubpradyumn/DSA-Practice/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/githubpradyumn/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/githubpradyumn/DSA-Practice/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/githubpradyumn/DSA-Practice/tree/master/0120-triangle) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/githubpradyumn/DSA-Practice/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/githubpradyumn/DSA-Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/githubpradyumn/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/githubpradyumn/DSA-Practice/tree/master/0417-pacific-atlantic-water-flow) |
