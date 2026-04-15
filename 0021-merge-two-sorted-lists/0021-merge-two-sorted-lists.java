@@ -29,11 +29,11 @@ class Solution {
         }
             if(list1==null){
                 curr.next = list2;
-                curr = curr.next;
+                // curr = curr.next;
                 return ans.next;
             } else if (list2==null) {
                 curr.next = list1;
-                curr = curr.next;
+                // curr = curr.next;
                 return ans.next;
             }
         return ans.next;
