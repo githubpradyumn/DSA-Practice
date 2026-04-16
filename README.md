@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/githubpradyumn/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/githubpradyumn/DSA-Practice/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/githubpradyumn/DSA-Practice/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/githubpradyumn/DSA-Practice/tree/master/0191-number-of-1-bits) |
 | [0307-range-sum-query-mutable](https://github.com/githubpradyumn/DSA-Practice/tree/master/0307-range-sum-query-mutable) |
 ## Sorting
 |  |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/githubpradyumn/DSA-Practice/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/githubpradyumn/DSA-Practice/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/githubpradyumn/DSA-Practice/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/githubpradyumn/DSA-Practice/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/githubpradyumn/DSA-Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/githubpradyumn/DSA-Practice/tree/master/0268-missing-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/githubpradyumn/DSA-Practice/tree/master/2308-divide-array-into-equal-pairs) |
