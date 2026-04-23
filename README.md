@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/githubpradyumn/DSA-Practice/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/githubpradyumn/DSA-Practice/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/githubpradyumn/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/githubpradyumn/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/githubpradyumn/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0721-accounts-merge](https://github.com/githubpradyumn/DSA-Practice/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/githubpradyumn/DSA-Practice/tree/master/0724-find-pivot-index) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/githubpradyumn/DSA-Practice/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/githubpradyumn/DSA-Practice/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/githubpradyumn/DSA-Practice/tree/master/0566-reshape-the-matrix) |
+| [0695-max-area-of-island](https://github.com/githubpradyumn/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/githubpradyumn/DSA-Practice/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/githubpradyumn/DSA-Practice/tree/master/0778-swim-in-rising-water) |
 | [0931-minimum-falling-path-sum](https://github.com/githubpradyumn/DSA-Practice/tree/master/0931-minimum-falling-path-sum) |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/githubpradyumn/DSA-Practice/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/githubpradyumn/DSA-Practice/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/githubpradyumn/DSA-Practice/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/githubpradyumn/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/githubpradyumn/DSA-Practice/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/githubpradyumn/DSA-Practice/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/githubpradyumn/DSA-Practice/tree/master/0743-network-delay-time) |
@@ -558,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/githubpradyumn/DSA-Practice/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/githubpradyumn/DSA-Practice/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/githubpradyumn/DSA-Practice/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/githubpradyumn/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/githubpradyumn/DSA-Practice/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/githubpradyumn/DSA-Practice/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/githubpradyumn/DSA-Practice/tree/master/0743-network-delay-time) |
@@ -624,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/githubpradyumn/DSA-Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/githubpradyumn/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/githubpradyumn/DSA-Practice/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/githubpradyumn/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/githubpradyumn/DSA-Practice/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/githubpradyumn/DSA-Practice/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/githubpradyumn/DSA-Practice/tree/master/0785-is-graph-bipartite) |
