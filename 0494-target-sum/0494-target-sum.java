@@ -1,17 +1,17 @@
 class Solution {
     public int findTargetSumWays(int[] nums, int target) {
-        return solve(nums, target, nums.length - 1);
-    }
-
-    public int solve(int[] nums, int target, int i) {
-        if (i < 0) {
-            return target == 0 ? 1 : 0;
+        int total = 0;
+        for(int num : nums) total+=num;
+        if((total+target)%2!=0 || Math.abs(target)>total) return 0;
+        int sum = (total + target)/2;
+        int[] dp = new int[sum+1];
+        dp[0]=1;
+        for(int num: nums){
+            for(int s=sum;s>=num;s--){
+                dp[s]+=dp[s-num];
+            }
         }
+        return dp[sum];
 
-        int plus  = solve(nums, target - nums[i], i - 1);
-
-        int minus = solve(nums, target + nums[i], i - 1);
-
-        return plus + minus;  
     }
 }
