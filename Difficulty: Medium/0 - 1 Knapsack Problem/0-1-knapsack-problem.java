@@ -1,18 +1,20 @@
 class Solution {
     public int knapsack(int W, int val[], int wt[]) {
         // code here
-        int n = val.length;
+        int n =  val.length;
         int[][] dp = new int[n+1][W+1];
+        for(int[] row : dp) Arrays.fill(row,-1);
         
-        for(int i=1;i<=n;i++){
-            for(int j=0;j<=W;j++){
-                if(wt[i-1]<=j){
-                    dp[i][j] = Math.max(dp[i-1][j],val[i-1]+dp[i-1][j-wt[i-1]]);
-                } else {
-                    dp[i][j] = dp[i-1][j];
-                }
-            }
+        return helper(W,val,wt,n,dp);
+    }
+    public int helper(int W, int val[], int wt[], int n, int[][] dp){
+        if(n==0||W==0) return 0;
+        if(dp[n][W]!=-1) return dp[n][W];
+        
+        if(wt[n-1]<=W){
+            return dp[n][W] =  Math.max((val[n-1]+helper(W-wt[n-1],val,wt,n-1,dp)),helper(W,val,wt,n-1,dp));
+        } else {
+            return dp[n][W] = helper(W,val,wt,n-1,dp);
         }
-        return dp[n][W];
     }
 }
