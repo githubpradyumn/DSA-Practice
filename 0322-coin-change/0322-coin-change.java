@@ -6,7 +6,7 @@ class Solution {
             dp[0][i] = (int)1e9;
         }
         for(int i=1;i<=n;i++){
-            for(int j=0;j<=amount;j++){
+            for(int j=1;j<=amount;j++){
                 int notPick = dp[i-1][j];
                 int pick = (int)1e9; 
                 if (coins[i - 1] <= j) {
