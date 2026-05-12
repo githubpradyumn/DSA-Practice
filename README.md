@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/githubpradyumn/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/githubpradyumn/DSA-Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/githubpradyumn/DSA-Practice/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/githubpradyumn/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/githubpradyumn/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/githubpradyumn/DSA-Practice/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/githubpradyumn/DSA-Practice/tree/master/0322-coin-change) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/githubpradyumn/DSA-Practice/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/githubpradyumn/DSA-Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/githubpradyumn/DSA-Practice/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/githubpradyumn/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/githubpradyumn/DSA-Practice/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/githubpradyumn/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/githubpradyumn/DSA-Practice/tree/master/0410-split-array-largest-sum) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/githubpradyumn/DSA-Practice/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/githubpradyumn/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/githubpradyumn/DSA-Practice/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/githubpradyumn/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/githubpradyumn/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/githubpradyumn/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/githubpradyumn/DSA-Practice/tree/master/0441-arranging-coins) |
