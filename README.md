@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/githubpradyumn/DSA-Practice/tree/master/0721-accounts-merge) |
 | [0782-jewels-and-stones](https://github.com/githubpradyumn/DSA-Practice/tree/master/0782-jewels-and-stones) |
 | [0839-similar-string-groups](https://github.com/githubpradyumn/DSA-Practice/tree/master/0839-similar-string-groups) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/githubpradyumn/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0990-satisfiability-of-equality-equations](https://github.com/githubpradyumn/DSA-Practice/tree/master/0990-satisfiability-of-equality-equations) |
 | [1143-longest-common-subsequence](https://github.com/githubpradyumn/DSA-Practice/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/githubpradyumn/DSA-Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/githubpradyumn/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/githubpradyumn/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/githubpradyumn/DSA-Practice/tree/master/0739-daily-temperatures) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/githubpradyumn/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1472-design-browser-history](https://github.com/githubpradyumn/DSA-Practice/tree/master/1472-design-browser-history) |
 | [1582-design-browser-history](https://github.com/githubpradyumn/DSA-Practice/tree/master/1582-design-browser-history) |
 | [2128-reverse-prefix-of-word](https://github.com/githubpradyumn/DSA-Practice/tree/master/2128-reverse-prefix-of-word) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/githubpradyumn/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/githubpradyumn/DSA-Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0860-lemonade-change](https://github.com/githubpradyumn/DSA-Practice/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/githubpradyumn/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2032-largest-odd-number-in-string](https://github.com/githubpradyumn/DSA-Practice/tree/master/2032-largest-odd-number-in-string) |
 ## Linked List
 |  |
