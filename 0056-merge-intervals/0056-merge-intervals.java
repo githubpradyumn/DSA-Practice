@@ -7,19 +7,19 @@ class Solution {
             
             int start = intervals[0][0];
             int end = intervals[0][1];
-            for(int[] i: intervals){
-                if(i[0] <= end){
-                    end = Math.max(end, i[1]);
+            for(int i=1; i<intervals.length; i++){
+                if(intervals[i][0] <= end){
+                    end = Math.max(end, intervals[i][1]);
                 } else {
                     answer.add(new int[]{start,end});
-                    start = i[0];
-                    end = i[1];
+                    start = intervals[i][0];
+                    end = intervals[i][1];
                 }
             }
             answer.add(new int[]{start,end}); 
             
         }
         
-        return answer.toArray(new int[0][]); 
+        return answer.toArray(new int[answer.size()][]); 
     }
 }
