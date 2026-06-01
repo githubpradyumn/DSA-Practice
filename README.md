@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/githubpradyumn/DSA-Practice/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/githubpradyumn/DSA-Practice/tree/master/0941-sort-array-by-parity) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/githubpradyumn/DSA-Practice/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
+| [1768-merge-strings-alternately](https://github.com/githubpradyumn/DSA-Practice/tree/master/1768-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/githubpradyumn/DSA-Practice/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/githubpradyumn/DSA-Practice/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/githubpradyumn/DSA-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/githubpradyumn/DSA-Practice/tree/master/0990-satisfiability-of-equality-equations) |
 | [1143-longest-common-subsequence](https://github.com/githubpradyumn/DSA-Practice/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/githubpradyumn/DSA-Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1768-merge-strings-alternately](https://github.com/githubpradyumn/DSA-Practice/tree/master/1768-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/githubpradyumn/DSA-Practice/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/githubpradyumn/DSA-Practice/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2128-reverse-prefix-of-word](https://github.com/githubpradyumn/DSA-Practice/tree/master/2128-reverse-prefix-of-word) |
