@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/githubpradyumn/DSA-Practice/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/githubpradyumn/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/githubpradyumn/DSA-Practice/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/githubpradyumn/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/githubpradyumn/DSA-Practice/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/githubpradyumn/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/githubpradyumn/DSA-Practice/tree/master/0646-maximum-length-of-pair-chain) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/githubpradyumn/DSA-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/githubpradyumn/DSA-Practice/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/githubpradyumn/DSA-Practice/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/githubpradyumn/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/githubpradyumn/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/githubpradyumn/DSA-Practice/tree/master/0721-accounts-merge) |
 | [0782-jewels-and-stones](https://github.com/githubpradyumn/DSA-Practice/tree/master/0782-jewels-and-stones) |
@@ -638,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/githubpradyumn/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/githubpradyumn/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/githubpradyumn/DSA-Practice/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/githubpradyumn/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/githubpradyumn/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/githubpradyumn/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/githubpradyumn/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
