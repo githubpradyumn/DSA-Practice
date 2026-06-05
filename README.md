@@ -571,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/githubpradyumn/DSA-Practice/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/githubpradyumn/DSA-Practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/githubpradyumn/DSA-Practice/tree/master/0463-island-perimeter) |
+| [0513-find-bottom-left-tree-value](https://github.com/githubpradyumn/DSA-Practice/tree/master/0513-find-bottom-left-tree-value) |
 | [0542-01-matrix](https://github.com/githubpradyumn/DSA-Practice/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/githubpradyumn/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/githubpradyumn/DSA-Practice/tree/master/0695-max-area-of-island) |
@@ -606,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/githubpradyumn/DSA-Practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/githubpradyumn/DSA-Practice/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/githubpradyumn/DSA-Practice/tree/master/0463-island-perimeter) |
+| [0513-find-bottom-left-tree-value](https://github.com/githubpradyumn/DSA-Practice/tree/master/0513-find-bottom-left-tree-value) |
 | [0547-number-of-provinces](https://github.com/githubpradyumn/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/githubpradyumn/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/githubpradyumn/DSA-Practice/tree/master/0721-accounts-merge) |
@@ -667,12 +669,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/githubpradyumn/DSA-Practice/tree/master/0102-binary-tree-level-order-traversal) |
+| [0513-find-bottom-left-tree-value](https://github.com/githubpradyumn/DSA-Practice/tree/master/0513-find-bottom-left-tree-value) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/githubpradyumn/DSA-Practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/githubpradyumn/DSA-Practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/githubpradyumn/DSA-Practice/tree/master/0102-binary-tree-level-order-traversal) |
+| [0513-find-bottom-left-tree-value](https://github.com/githubpradyumn/DSA-Practice/tree/master/0513-find-bottom-left-tree-value) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/githubpradyumn/DSA-Practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/githubpradyumn/DSA-Practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Union-Find
