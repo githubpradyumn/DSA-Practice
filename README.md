@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/githubpradyumn/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/githubpradyumn/DSA-Practice/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/githubpradyumn/DSA-Practice/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/githubpradyumn/DSA-Practice/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/githubpradyumn/DSA-Practice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/githubpradyumn/DSA-Practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/githubpradyumn/DSA-Practice/tree/master/0069-sqrtx) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/githubpradyumn/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/githubpradyumn/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/githubpradyumn/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/githubpradyumn/DSA-Practice/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/githubpradyumn/DSA-Practice/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/githubpradyumn/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/githubpradyumn/DSA-Practice/tree/master/0091-decode-ways) |
@@ -773,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/githubpradyumn/DSA-Practice/tree/master/0062-unique-paths) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/githubpradyumn/DSA-Practice/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Number Theory
 |  |
