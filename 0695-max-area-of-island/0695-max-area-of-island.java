@@ -1,51 +1,55 @@
 class Solution {
-    class Pair {
-        int row, col;
+    class Pair{
+        int row;
+        int col;
+
         Pair(int row, int col){
             this.row=row;
             this.col=col;
         }
     }
-    int[] rowDirections = {0,0,-1,1};
-    int[] colDirections = {-1,1,0,0};
-    public boolean isValid(int row, int col, int totalRows, int totalCols){
-        return (row>=0 && col>=0 && row<totalRows && col<totalCols);
+
+    int row[] = {-1,1,0,0};
+    int col[] = {0,0,1,-1};
+
+    public boolean isValid(int row,int col, int m, int n){
+        return (row>=0 && row<m && col>=0 && col<n);
     }
-    public int maxAreaOfIsland(int[][] grid) {
-        int totalRows = grid.length;
-        int totalCols = grid[0].length;
-        int maxCount = 0;
-        int[][] isVisited = new int[totalRows][totalCols];
-        for(int i=0;i<totalRows;i++){
-            for(int j=0;j<totalCols;j++){
-                if(grid[i][j]==1 && isVisited[i][j]==0){
-                    int count = bfs(grid,isVisited,i,j,totalRows,totalCols);
-                    maxCount = Math.max(maxCount,count);
-                    // bfs(grid,isVisited,i,j,totalRows,totalCols);
-                    // maxCount++;
-                }
-            }
-        }
-        return maxCount;
-    }
-    public int  bfs(int[][] grid, int[][] isVisited, int row, int col, int totalRows, int totalCols){
+    public int bfs(int[][] grid,int[][] isVisited,int m, int n, int i, int j,int max){
         Queue<Pair> q = new LinkedList<>();
-        q.add(new Pair(row,col));
-        isVisited[row][col]=1;
-        int currCount = 1;
+        q.add(new Pair(i,j));
+        isVisited[i][j]=1;
         while(!q.isEmpty()){
             Pair curr = q.poll();
-            for(int i=0;i<4;i++){
-                int currRow = curr.row + rowDirections[i];
-                int currCol = curr.col + colDirections[i];
-                if(isValid(currRow,currCol,totalRows,totalCols) && grid[currRow][currCol]==1 && isVisited[currRow][currCol]==0){
-                    isVisited[currRow][currCol]=1;
+            max += grid[curr.row][curr.col];
+            for(int k=0;k<4;k++){
+                int currRow=curr.row+row[k];
+                int currCol=curr.col+col[k];
+                if(isValid(currRow,currCol,m,n)&&isVisited[currRow][currCol]==0&&grid[currRow][currCol]==1){
                     q.add(new Pair(currRow,currCol));
-                    currCount++;
+                    isVisited[currRow][currCol]=1;
                 }
             }
         }
+        return max;
+    }
+    public int maxAreaOfIsland(int[][] grid) {
+        int m=grid.length;
+        int n=grid[0].length;
 
-        return currCount;
+        int[][] isVisited = new int[m][n];
+
+        int maxArea=0;
+
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(isVisited[i][j]==0 && grid[i][j]==1){
+                    int max=bfs(grid,isVisited,m,n,i,j,0);
+                    maxArea=Math.max(maxArea,max);
+                }
+            }
+        }
+        return maxArea;
+
     }
 }
