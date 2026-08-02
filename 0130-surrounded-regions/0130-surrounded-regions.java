@@ -1,89 +1,73 @@
 class Solution {
     class Pair{
-
         int row;
-        int col;        
+        int col;
 
-        Pair(int row,int col){
+        Pair(int row, int col){
             this.row=row;
             this.col=col;
         }
-
-    }
-    public boolean isValid(int row,int col,int totalRows,int totalCols){
-        if(row>0 && row<totalRows && col>0 && col<totalCols) return true;
-        return false;
     }
 
-    int[] rowDirection = {1,-1,0,0};
-    int[] colDirection = {0,0,1,-1};
+    int row[] = {-1,1,0,0};
+    int col[] = {0,0,1,-1};
 
-    public void bfs(boolean[][] isVisited,char[][] board,int row,int col,int totalRows, int totalCols){
-        
+    public boolean isValid(int row,int col, int m, int n){
+        return (row>=0 && row<m && col>=0 && col<n);
+    }
+    public void bfs(char[][] board,int[][] isVisited,int m, int n, int i, int j){
         Queue<Pair> q = new LinkedList<>();
-        Pair p = new Pair(row,col);
-        q.add(p);
-        isVisited[row][col] = true;
-        board[row][col]='A';
-        
+        q.add(new Pair(i,j));
+        board[i][j]='A';
+        isVisited[i][j]=1;
         while(!q.isEmpty()){
             Pair curr = q.poll();
-            
-            int currRow = curr.row;
-            int currCol = curr.col;;
-            
-            for(int i=0;i<4;i++){
-                
-                int newRow = currRow + rowDirection[i];
-                int newCol = currCol + colDirection[i];
-                
-                if(isValid(newRow,newCol,totalRows,totalCols) && board[newRow][newCol]=='O' && isVisited[newRow][newCol]==false){
-                    Pair currPair = new Pair(newRow,newCol);
-                    q.add(currPair);
-                    isVisited[newRow][newCol]=true;
-                    board[newRow][newCol]='A';
-
+            for(int k=0;k<4;k++){
+                int currRow=curr.row+row[k];
+                int currCol=curr.col+col[k];
+                if(isValid(currRow,currCol,m,n)&&isVisited[currRow][currCol]==0&&board[currRow][currCol]=='O'){
+                    q.add(new Pair(currRow,currCol));
+                    board[currRow][currCol]='A';
+                    isVisited[currRow][currCol]=1;
                 }
-                
             }
         }
     }
-    public void solve(char[][] board){
-        
-        int totalRows=board.length;
-        int totalCols=board[0].length;
-        boolean[][] isVisited = new boolean[totalRows][totalCols];
+    public void solve(char[][] board) {
+       int m = board.length;
+       int n = board[0].length;
+       
+       int isVisited[][] = new int[m][n];
 
-        for(int i=0;i<totalCols;i++){
-            if(board[0][i]=='O' && isVisited[0][i]==false){
-                bfs(isVisited,board,0,i,totalRows,totalCols);
-            }
+       for(int i=0;i<n;i++){
+        if(isVisited[0][i]==0&&board[0][i]=='O'){
+            bfs(board,isVisited,m,n,0,i);
         }
-        for(int i=0;i<totalCols;i++){
-            if(board[totalRows-1][i]=='O' && isVisited[totalRows-1][i]==false){
-                bfs(isVisited,board,totalRows-1,i,totalRows,totalCols);
-            }
+       } 
+       for(int i=0;i<n;i++){
+        if(isVisited[m-1][i]==0&&board[m-1][i]=='O'){
+            bfs(board,isVisited,m,n,m-1,i);
         }
-        for(int i=0;i<totalRows;i++){
-            if(board[i][0]=='O' && isVisited[i][0]==false){
-                bfs(isVisited,board,i,0,totalRows,totalCols);
-            }
+       } 
+       for(int i=0;i<m;i++){
+        if(isVisited[i][0]==0&&board[i][0]=='O'){
+            bfs(board,isVisited,m,n,i,0);
         }
-        for(int i=0;i<totalRows;i++){
-            if(board[i][totalCols-1]=='O' && isVisited[i][totalCols-1]==false){
-                bfs(isVisited,board,i,totalCols-1,totalRows,totalCols);
-            }
+       } 
+       for(int i=0;i<m;i++){
+        if(isVisited[i][n-1]==0&&board[i][n-1]=='O'){
+            bfs(board,isVisited,m,n,i,n-1);
         }
+       } 
 
-        for(int i=0;i<totalRows;i++){
-            for(int j=0;j<totalCols;j++){
-                if(board[i][j]=='A'){
-                    board[i][j]='O';
-                } else {
-                    board[i][j]='X';
-                }
+       for(int i=0;i<m;i++){
+        for(int j=0;j<n;j++){
+            if(board[i][j]=='A'){
+                board[i][j]='O';
+            } else {
+                board[i][j]='X';
             }
         }
-
+       }
     }
 }
