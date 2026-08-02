@@ -1,55 +1,44 @@
 class Solution {
+    // pair class to store row and col in queue.
     class Pair{
-        int row , col;
+        int row;
+        int col;
+
         Pair(int row, int col){
             this.row=row;
             this.col=col;
         }
     }
 
-    int rowDirection[] = {0,0,-1,1}; 
-    int colDirection[] = {-1,1,0,0}; 
-    
-    public boolean isValid(int row, int col, int totalRows, int totalCols){
-        return (row>=0 && col>=0 && row<totalRows && col<totalCols);
-    }
+    int row[] = {-1,1,0,0};
+    int col[] = {0,0,1,-1};
 
-    public int[][] bfs(int[][] image,int[][] ans, int[][] isVisited,int color,int orgColor,int row,int col, int totalRows, int totalCols){
-        Queue<Pair> q = new LinkedList<>();
-        q.add(new Pair(row,col));
-        isVisited[row][col]=1;
-        ans[row][col]=color;
-        while(!q.isEmpty()){
-            Pair curr = q.poll();
-            for(int i=0;i<4;i++){
-                int newRow = curr.row + rowDirection[i];
-                int newCol = curr.col + colDirection[i];
-                if(isValid(newRow,newCol,totalRows,totalCols) && image[newRow][newCol]==orgColor && isVisited[newRow][newCol]==0){
-                    q.add(new Pair(newRow,newCol));
-                    isVisited[newRow][newCol]=1;
-                    ans[newRow][newCol]=color;
-
-                }
-            }
-        }
-        return ans;
+    public boolean isValid(int row,int col, int m, int n){
+        return (row>=0 && row<m && col>=0 && col<n);
     }
 
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
-
-        int totalRows = image.length;
-        int totalCols = image[0].length;
-        int[][] isVisited = new int[totalRows][totalCols];
-        int[][] ans = image;
-        int orgColor = image[sr][sc];
         
-        // for(int i=sr;i<totalRows;i++){
-            // for(int j=sc;j<totalCols;j++){
-                // if(image[i][j]==orgColor && isVisited[i][j]==0){
-                    bfs(image,ans,isVisited,color,orgColor,sr,sc,totalRows,totalCols);
-                // }
-            // }
-        // }
-        return ans;
+        int m = image.length;
+        int n = image[0].length;
+        int orgColor = image[sr][sc];
+        if(orgColor==color){
+            return image;
+        }
+        Queue<Pair> q = new LinkedList<>();
+        q.add(new Pair(sr,sc));
+        image[sr][sc] = color;
+        while(!q.isEmpty()){
+            Pair curr = q.poll();
+            for(int i=0;i<4;i++){
+                int currRow = curr.row + row[i];
+                int currCol = curr.col + col[i];
+                if(isValid(currRow,currCol,m,n) && image[currRow][currCol]==orgColor){
+                    image[currRow][currCol]=color;
+                    q.add(new Pair(currRow,currCol));
+                }
+            }
+        }
+        return image;
     }
 }
