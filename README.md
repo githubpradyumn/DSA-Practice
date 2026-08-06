@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1965-sum-of-digits-in-base-k](https://github.com/githubpradyumn/DSA-Practice/tree/master/1965-sum-of-digits-in-base-k) |
 | [2032-largest-odd-number-in-string](https://github.com/githubpradyumn/DSA-Practice/tree/master/2032-largest-odd-number-in-string) |
 | [2037-count-square-sum-triples](https://github.com/githubpradyumn/DSA-Practice/tree/master/2037-count-square-sum-triples) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/githubpradyumn/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3371-harshad-number](https://github.com/githubpradyumn/DSA-Practice/tree/master/3371-harshad-number) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/githubpradyumn/DSA-Practice/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/githubpradyumn/DSA-Practice/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2037-count-square-sum-triples](https://github.com/githubpradyumn/DSA-Practice/tree/master/2037-count-square-sum-triples) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/githubpradyumn/DSA-Practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/githubpradyumn/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/githubpradyumn/DSA-Practice/tree/master/3546-equal-sum-grid-partition-i) |
 ## Stack
 |  |
