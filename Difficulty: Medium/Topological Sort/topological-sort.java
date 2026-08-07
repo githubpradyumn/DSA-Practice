@@ -2,36 +2,34 @@ class Solution {
     public ArrayList<Integer> topoSort(int V, int[][] edges) {
         // code here
         ArrayList<ArrayList<Integer>> adjlist = new ArrayList<>();
-        for(int i=0; i<V; i++){
+        for(int i=0;i<V;i++){
             adjlist.add(new ArrayList<>());
         }
-        for(int[] e : edges){
-            adjlist.get(e[0]).add(e[1]);
+        for(int i = 0; i < edges.length; i++){
+            int u = edges[i][0];
+            int v = edges[i][1];
+            adjlist.get(u).add(v);
         }
-        int[] indegree = new int[V];
-        for(int i=0; i<V; i++){
-            for(int nbh : adjlist.get(i)){
-                indegree[nbh]++;
+        ArrayList<Integer> answer = new ArrayList<>();
+        Stack<Integer> stack = new Stack<>();
+        int[] visited  = new int[V];
+        for(int i=0; i<V;i++){
+            if(visited[i]!=1){
+                dfs(adjlist,stack,visited,i);
             }
         }
-        Queue<Integer> q = new LinkedList<>();
-        for(int i=0; i<V; i++){
-            if(indegree[i]==0){
-                q.add(i);
+        while(!stack.isEmpty()){
+            answer.add(stack.pop());
+        }
+        return answer;
+    }
+    public void dfs(ArrayList<ArrayList<Integer>> adjlist,Stack<Integer> stack, int[] visited, int node){
+        visited[node] = 1;
+        for(int nbh : adjlist.get(node) ){
+            if(visited[nbh]!=1){
+                dfs(adjlist,stack,visited,nbh);
             }
         }
-        ArrayList<Integer> ansList = new ArrayList<>();
-        while(!q.isEmpty()){
-            int curr = q.poll();
-            ansList.add(curr);
-            for(int nbh: adjlist.get(curr)){
-                indegree[nbh]--;
-                if(indegree[nbh]==0){
-                    q.add(nbh);
-                }
-            }
-                
-        }
-        return ansList;
+        stack.push(node);
     }
 }
