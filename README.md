@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-similar-string-groups](https://github.com/githubpradyumn/DSA-Practice/tree/master/0839-similar-string-groups) |
 | [0860-lemonade-change](https://github.com/githubpradyumn/DSA-Practice/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/githubpradyumn/DSA-Practice/tree/master/0875-koko-eating-bananas) |
+| [0905-sort-array-by-parity](https://github.com/githubpradyumn/DSA-Practice/tree/master/0905-sort-array-by-parity) |
 | [0931-minimum-falling-path-sum](https://github.com/githubpradyumn/DSA-Practice/tree/master/0931-minimum-falling-path-sum) |
 | [0941-sort-array-by-parity](https://github.com/githubpradyumn/DSA-Practice/tree/master/0941-sort-array-by-parity) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/githubpradyumn/DSA-Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/githubpradyumn/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/githubpradyumn/DSA-Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/githubpradyumn/DSA-Practice/tree/master/0721-accounts-merge) |
+| [0905-sort-array-by-parity](https://github.com/githubpradyumn/DSA-Practice/tree/master/0905-sort-array-by-parity) |
 | [0941-sort-array-by-parity](https://github.com/githubpradyumn/DSA-Practice/tree/master/0941-sort-array-by-parity) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/githubpradyumn/DSA-Practice/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/githubpradyumn/DSA-Practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/githubpradyumn/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/githubpradyumn/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/githubpradyumn/DSA-Practice/tree/master/0567-permutation-in-string) |
+| [0905-sort-array-by-parity](https://github.com/githubpradyumn/DSA-Practice/tree/master/0905-sort-array-by-parity) |
 | [0908-middle-of-the-linked-list](https://github.com/githubpradyumn/DSA-Practice/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/githubpradyumn/DSA-Practice/tree/master/0941-sort-array-by-parity) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/githubpradyumn/DSA-Practice/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
