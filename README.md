@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/githubpradyumn/DSA-Practice/tree/master/0941-sort-array-by-parity) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/githubpradyumn/DSA-Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/githubpradyumn/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0977-squares-of-a-sorted-array](https://github.com/githubpradyumn/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [0990-satisfiability-of-equality-equations](https://github.com/githubpradyumn/DSA-Practice/tree/master/0990-satisfiability-of-equality-equations) |
 | [0994-rotting-oranges](https://github.com/githubpradyumn/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/githubpradyumn/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/githubpradyumn/DSA-Practice/tree/master/0721-accounts-merge) |
 | [0905-sort-array-by-parity](https://github.com/githubpradyumn/DSA-Practice/tree/master/0905-sort-array-by-parity) |
 | [0941-sort-array-by-parity](https://github.com/githubpradyumn/DSA-Practice/tree/master/0941-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/githubpradyumn/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/githubpradyumn/DSA-Practice/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/githubpradyumn/DSA-Practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3531-count-covered-buildings](https://github.com/githubpradyumn/DSA-Practice/tree/master/3531-count-covered-buildings) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/githubpradyumn/DSA-Practice/tree/master/0905-sort-array-by-parity) |
 | [0908-middle-of-the-linked-list](https://github.com/githubpradyumn/DSA-Practice/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/githubpradyumn/DSA-Practice/tree/master/0941-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/githubpradyumn/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/githubpradyumn/DSA-Practice/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1768-merge-strings-alternately](https://github.com/githubpradyumn/DSA-Practice/tree/master/1768-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/githubpradyumn/DSA-Practice/tree/master/2128-reverse-prefix-of-word) |
