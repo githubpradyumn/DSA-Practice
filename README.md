@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/githubpradyumn/DSA-Practice/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/githubpradyumn/DSA-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/githubpradyumn/DSA-Practice/tree/master/2308-divide-array-into-equal-pairs) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/githubpradyumn/DSA-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2574-left-and-right-sum-differences](https://github.com/githubpradyumn/DSA-Practice/tree/master/2574-left-and-right-sum-differences) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/githubpradyumn/DSA-Practice/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/githubpradyumn/DSA-Practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/githubpradyumn/DSA-Practice/tree/master/1695-maximum-erasure-value) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/githubpradyumn/DSA-Practice/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/githubpradyumn/DSA-Practice/tree/master/2308-divide-array-into-equal-pairs) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/githubpradyumn/DSA-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/githubpradyumn/DSA-Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3531-count-covered-buildings](https://github.com/githubpradyumn/DSA-Practice/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/githubpradyumn/DSA-Practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/githubpradyumn/DSA-Practice/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/githubpradyumn/DSA-Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1695-maximum-erasure-value](https://github.com/githubpradyumn/DSA-Practice/tree/master/1695-maximum-erasure-value) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/githubpradyumn/DSA-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String Matching
 |  |
 | ------- |
