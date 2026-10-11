@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/githubpradyumn/DSA-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2574-left-and-right-sum-differences](https://github.com/githubpradyumn/DSA-Practice/tree/master/2574-left-and-right-sum-differences) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/githubpradyumn/DSA-Practice/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/githubpradyumn/DSA-Practice/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/githubpradyumn/DSA-Practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/githubpradyumn/DSA-Practice/tree/master/3477-fruits-into-baskets-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/githubpradyumn/DSA-Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/githubpradyumn/DSA-Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1695-maximum-erasure-value](https://github.com/githubpradyumn/DSA-Practice/tree/master/1695-maximum-erasure-value) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/githubpradyumn/DSA-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/githubpradyumn/DSA-Practice/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## String Matching
 |  |
 | ------- |
