@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1965-sum-of-digits-in-base-k](https://github.com/githubpradyumn/DSA-Practice/tree/master/1965-sum-of-digits-in-base-k) |
 | [2032-largest-odd-number-in-string](https://github.com/githubpradyumn/DSA-Practice/tree/master/2032-largest-odd-number-in-string) |
 | [2037-count-square-sum-triples](https://github.com/githubpradyumn/DSA-Practice/tree/master/2037-count-square-sum-triples) |
+| [2235-add-two-integers](https://github.com/githubpradyumn/DSA-Practice/tree/master/2235-add-two-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/githubpradyumn/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3371-harshad-number](https://github.com/githubpradyumn/DSA-Practice/tree/master/3371-harshad-number) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/githubpradyumn/DSA-Practice/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
