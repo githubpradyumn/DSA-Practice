@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/githubpradyumn/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/githubpradyumn/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/githubpradyumn/DSA-Practice/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/githubpradyumn/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/githubpradyumn/DSA-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/githubpradyumn/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/githubpradyumn/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/githubpradyumn/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/githubpradyumn/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/githubpradyumn/DSA-Practice/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/githubpradyumn/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/githubpradyumn/DSA-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/githubpradyumn/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/githubpradyumn/DSA-Practice/tree/master/0368-largest-divisible-subset) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/githubpradyumn/DSA-Practice/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/githubpradyumn/DSA-Practice/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/githubpradyumn/DSA-Practice/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/githubpradyumn/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/githubpradyumn/DSA-Practice/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/githubpradyumn/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/githubpradyumn/DSA-Practice/tree/master/0412-fizz-buzz) |
