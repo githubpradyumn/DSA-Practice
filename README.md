@@ -727,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0185-department-top-three-salaries](https://github.com/githubpradyumn/DSA-Practice/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/githubpradyumn/DSA-Practice/tree/master/0196-delete-duplicate-emails) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/githubpradyumn/DSA-Practice/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1068-product-sales-analysis-i](https://github.com/githubpradyumn/DSA-Practice/tree/master/1068-product-sales-analysis-i) |
 | [1084-sales-analysis-iii](https://github.com/githubpradyumn/DSA-Practice/tree/master/1084-sales-analysis-iii) |
 | [1174-immediate-food-delivery-ii](https://github.com/githubpradyumn/DSA-Practice/tree/master/1174-immediate-food-delivery-ii) |
 | [1341-movie-rating](https://github.com/githubpradyumn/DSA-Practice/tree/master/1341-movie-rating) |
